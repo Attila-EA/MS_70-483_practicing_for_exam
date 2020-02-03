@@ -1,0 +1,6 @@
+C:\Users\hidra\source\repos\Challange1_Calculator_Application\bin\Debug\Challange1_Calculator_Application.exe.config
+C:\Users\hidra\source\repos\Challange1_Calculator_Application\bin\Debug\Challange1_Calculator_Application.exe
+C:\Users\hidra\source\repos\Challange1_Calculator_Application\bin\Debug\Challange1_Calculator_Application.pdb
+C:\Users\hidra\source\repos\Challange1_Calculator_Application\obj\Debug\Challange1_Calculator_Application.csprojAssemblyReference.cache
+C:\Users\hidra\source\repos\Challange1_Calculator_Application\obj\Debug\Challange1_Calculator_Application.exe
+C:\Users\hidra\source\repos\Challange1_Calculator_Application\obj\Debug\Challange1_Calculator_Application.pdb
